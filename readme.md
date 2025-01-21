@@ -45,10 +45,10 @@ The application should now be running and accessible in your web browser on loca
 As we are using Okta for OAuth, you cannot directly signup. Read ## User Creation for more. 
 For testing purposes, you can use the following Okta credentials:
 
-- Email: 2001ujjwalsolanki@gmail.com
-- Password: Epita@123
+- Email: ****************
+- Password: ********
 
-Please note that this is a test user account.
+Please note that this is a test user account. Contact me for a test account. 
 
 ## User Creation
 
